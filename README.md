@@ -2,4 +2,4 @@
 
 A simple GPS tracker that makes use of Geolocation and Mapbox APIs
 
-Click [here]() to try it out
+Click [here](https://rb-parmar.github.io/GPS-Tracker/) to try it out
